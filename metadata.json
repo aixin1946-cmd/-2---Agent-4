@@ -1,0 +1,8 @@
+{
+  "name": " 视频工作流（2）-分镜视觉概念师 Agent 4",
+  "description": "A high-end cinematic storyboard tool that generates visuals following Apple's minimalism philosophy. It produces keyframes (start/end) for shot breakdowns and supports AI-powered video animation and image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
